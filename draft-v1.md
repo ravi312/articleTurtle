@@ -261,7 +261,7 @@ One of the respondents remarked,
 
 Resnick has also pointed to the same in the context of scratch microworld. The very affordance of "low-threshold" and "high ceiling" makes the journey in the turtle Graphics enjoyable.
 
-To summarize, the very power of the same code structure to generate different design adds to the awe and surprise. The visual affordance of the platform to support the try-view-modify cycle in experimental makes the bug finding a discovery process in it.
+To summarize, the very power of the same code structure to generate different design adds to the awe and surprise. The visual affordance of the platform to support the try-view-modify cycle in playful ways, makes even the bug finding an enjoyable discovery-rich context.
 
 ### Implicit understanding of concepts
 
