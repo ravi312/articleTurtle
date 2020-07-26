@@ -323,6 +323,23 @@ The intertwined nature of commitment towards supporting personally relevant expl
 
 The article highlights the importance of gradual scaffolding of the computational concepts and proposes that these should be elicited with within the context of creating personal meaning projects via turtle Blocks as a case study. This approach also sets the stage for the teachers of any discipline to focus on assessment less, open-ended creative exploration leveraging the true potential of the constructionist learning environment.
 
+**Acknowledgement**
+
+The authors would like to sincerely thank all the children and their parents who encouraged their children to participate in the pilot study.  
+The authors would also like to thank all mentors who encouraged the children and nudged their thinking towards creative pursuits.
+
+**Mentors:** Nagarjuna G, Jude T Dsuza, Spruha Satavlekar, Amit Dhakulkar, Ashish Pardeshi, Sandeep Satavlekar  
+**Wiki Challenges authors:** Amit Dhakulkar and Ravi Sinha  
+**Online sessions facilitator:** Ravi Sinha
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the institute.
+
+**Statements on data, ethics and conflicts of interest**
+
+The participants were given full anonymity in the study and voluntary consent from the guardian has been obtained. A research brief was shared with the participant's guardian which indicated the purpose of the study. They were also informed that participation in the study is voluntary.
+
+The authors reports no conflicts of interest.
+
 ## References
 
 Abelson, H. and DiSessa, A. A. (1981) Turtle geometry: the computer as a medium for exploring mathematics. Cambridge, Mass: MIT Press (The MIT Press series in artificial intelligence).
