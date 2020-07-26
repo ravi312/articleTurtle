@@ -29,8 +29,7 @@ latex_engine: xelatex
 
 ## Abstract
 
-Today, there is the ubiquitous presence of computing devices all around. Digital fluency is considered as one of the important skill to successfully navigate in this connected world.
-Resnick has argued that opportunities needs to be created to empower learner not just consume the products of digital technology, but to actually create them themselves.(Resnick, 2012) Getting familiar to the foundational programming concepts form the first-step to nurture the computational tinkering skills and enhance digital fluency. In this article, we explore the design of an introductory module in turtle Blocks microworld and how it supports the introduction of core concepts in alignment with the constructionist approach. The observations indicate that turtle Block not only supports the nurturing of foundational concepts but also develops a sense of positive attitude towards programming and a deeper connection with the environment. We also highlight the learnings which will be useful for practitioner to improvise the design of the module in the next iterations.
+Today, there is the ubiquitous presence of computing devices all around. Digital fluency is considered as one of the important skills to successfully navigate in this connected world. Resnick has argued that opportunities need to be created to empower learners to not just consume the products of digital technology, but to actually create those themselves.(Resnick, 2012) Getting familiar to the foundational programming concepts form the first-step to nurture the computational tinkering skills and enhance digital fluency(??). In this article, we explore the design of an introductory module in turtle Blocks microworld and how it supports the introduction of core concepts in alignment with the constructionist approach. The observations indicate that turtle Block not only supports the nurturing of foundational concepts but also develops a sense of positive attitude towards programming and a deeper connection with the environment. We also highlight the learnings which will be useful for practitioners to improvise the design of the module in the next iterations.
 
 > **Keywords:** Microworld, Constructivism, Pedagogy, Digital Fluency, Computational Thinking, Teacher Education, Learning, Creativity, Turtle Blocks
 
@@ -42,17 +41,16 @@ It's probably hard to see the connection between programming and Fig 1 at the fi
 
 ![Fig 2](./img/1.png)
 
-turtle Graphics is not a new approach to introduce programming to young people. It's historical roots go back to 1967 when the LOGO was developed at MIT by Papert, Wally et. al. Thereafter, there have been several derivatives of turtle Graphics approach to introduce programming to young people. Papert also proposed the theory of constructionism to understand the learning process during during the design and implementation of LOGO.
+turtle Graphics is not a new approach to introduce programming to young people. It’s historical roots goes back to 1967 when the LOGO was first developed at MIT by Papert, Wally et. al. Thereafter, there have been several derivatives of turtle Graphics approach to introduce programming to young people. Papert also proposed the theory of constructionism to understand the learning process during the design and implementation of LOGO.
 
-Constructionist learning encourages one to learn by creating artefacts (digital/physical) and sharing it with others for feedback or as a showcase. A microworld, like LOGO can be considered as an instantiation of constructionist learning environment. It's a safe, low-barrier to entry environment which provides opportunities to be an actively construct knowledge by making artefact.(Noss and Hoyles, 2017) Hence, LOGO is a microworld where the learner is empowered to encounter powerful ideas by engaging in the creation of personally meaningful artefacts (Lawler, 1982). Examples of other microworlds to introduce programming include scratch, snap, turtle Blocks, TI LOGO, Alice etc.
+Constructionist learning encourages one to learn by creating artefacts (digital/physical) and sharing it with others for feedback or as a showcase. A microworld, like LOGO can be considered as an instantiation of a constructionist learning environment. It’s a safe, low-barrier to entry environment which provides opportunities to  actively construct knowledge by making artefact.(Noss and Hoyles, 2017)  LOGO is considered a microworld where the learner is empowered to encounter powerful ideas by engaging in the creation of personally meaningful artefacts (Lawler, 1982). Examples of other microworlds to introduce programming include scratch, snap, turtle Blocks, TI LOGO, Alice etc.
 
-Today, the web-based technologies have made it possible to access some of these programs without any installation right from a tab in the browser. [turtle Blocks](https://turtle.sugarlabs.org/) is a microworld designed by SugarLabs to introductory programming to first-time learners. It is a FOSS (Free and Open Source Software). It supports knowledge construction by empowering users with authoring tools to create and share computationally generated graphics. One can design these graphics by manipulating a turtle(an object) on the screen using simple commands. The drag-drop gesture can be used to bring the colour-coded blocks from the command palette in the drawing area and snap them like LEGO pieces to complete the code. Different blocks have different functionality which is also represented by its shape making and color. The block-based programming approach allows the learner to focus on the logical structure of the code rather than debugging the syntactical errors related to language. (Resnick, 2012)
+Today, the web-based technologies have made it possible to access some of these programs  directly from a web browser. turtle Blocks is a microworld designed by SugarLabs to introduce programming to first-time learners. It is a FOSS (Free and Open Source Software). It supports knowledge construction by empowering users with authoring tools to create and share computationally generated graphics. One can design these graphics by manipulating a turtle(an object) on the screen using simple commands. The drag-drop gesture can be used to bring the colour-coded blocks from the command palette in the drawing area and snap them like LEGO pieces to complete the code. Different blocks have different functionality which is also represented by its shape making (?) and color. The block-based programming approach allows the learner to focus on the logical structure of the code rather than debugging the syntactical errors related to language. (Resnick, 2012)
+There is also a wealth of literature to connect the exploration of turtle Graphics with mathematical thinking, especially in the area of geometry and algebra.(Abelson and DiSessa, 1981; Papert, 1972) This has a pedagogical implication for educationists to also meaningfully integrate subject-matter with digital technologies. The prerequisite for such cross-disciplinary meaningful integration starts with the nurturing of the foundational understanding of core-programming concepts which will be the focus of this article.
 
-There is also a wealth of literature to connect the exploration of turtle Graphics with mathematical thinking, especially in the area of geometry and algebra.(Abelson and DiSessa, 1981; Papert, 1972) As an educationist, this has a pedagogical implication to also meaningfully integrate subject-matter with digital technologies. The prerequisite for such cross-disciplinary meaningful integration is to start with nurturing the foundational understanding of core-programming concepts which will be the focus of this article.
+For example, Newell, B. (1988) has already suggested that it's the perspective change which will be more challenging to effectively marry the turtle Graphics approach with formal mathematics. He argued that teachers are already familiar with the formal knowledge, and one needs to design intervention to facilitate this perspective change for successful integration. Since turtle Graphics approach already had a lot of avenues for interdisciplinary integration while simultaneously building digital fluency and nurturing core foundational principle, it was the suitable choice for the pilot.
 
-To take example from mathematics education, Newell, B. (1988) has already suggested that it's the perspective change which will be more challenging to effectively marry the turtle Graphics approach with formal mathematics. He argued that teachers are already familiar with the formal knowledge, and one needs to design intervention to facilitate this perspective change for successful integration. Since turtle Graphics approach already had a lot of avenues for disciplinary integration at the same time building digital fluency and nurturing core foundational principle, it was the suitable choice for the pilot.
-
-The article explores the design of open-ended personally meaningful exploration to enhance computational participation and digital fluency in alignment with constructionist approach. The goal was to keep the engagement meaningful, accessible, personalized and universal.The preliminary observation indicates that certain programming concepts are not intuitive and require more nudging and facilitation on part of the designer. The data also indicates that even with little effort in an online mentoring setup ,the intervention can play an instrumental role to springboard learners towards open-ended contextual exploration along with developing a positive attitude towards programming.
+The article explores the design of an open-ended personally and meaningful exploration to enhance computational participation and digital fluency in alignment with constructionist approach. The goal was to keep the engagement meaningful, accessible, personalized and universal.The preliminary observation indicates that certain programming concepts are not very intuitive for every learner and requires more nudging and facilitation on part of the designer. The data also indicates that even with little effort in an online mentoring setup ,the intervention can play an instrumental role to springboard learners towards open-ended contextual exploration along with developing a positive attitude towards programming.
 
 ## Design
 
@@ -60,13 +58,13 @@ The article explores the design of open-ended personally meaningful exploration 
 
 Programming concepts like randomization, iterations, control flow structures, variables and operators form important building blocks in learning to code. These are also applicable across different programming environments.
 
-The sessions in turtle Blocks were designed to include sequencing, iterations (loops, nested loops), conditionals , operators, data(stepping variables), events(action) according to the framework suggested by Brennan, K. and Resnick, M. (Brennan and Resnick, 2012). These elements form the basic structure of the coding block in similar microworlds like Scratch. (See Fig 5 Resnick, M. et al.,2009). In addition to the elements suggested, an additional concept was randomization was added to the list.
+The sessions in turtle Blocks were designed to include sequencing, iterations (loops, nested loops), conditionals , operators, data(stepping variables), events(action) according to the framework suggested by Brennan, K. and Resnick, M. (Brennan and Resnick, 2012). These elements form the basic structure of the coding block in similar microworlds like Scratch. (See Fig 5 Resnick, M. et al.,2009). In addition to the elements suggested, an additional concept of randomization was added to the list.
 
 There was a gradual transition and integration of the concepts during the subsequent sessions.
 
 ### Session Design
 
-A series with six sessions were designed spaced across three-weeks to make the participants explore the turtle Blocks microworld.
+A series of six sessions was designed and spaced across three-weeks to make the participants explore the turtle Blocks microworld.
 
 The following themes were explored in the sessions:
 
@@ -81,27 +79,29 @@ The following themes were explored in the sessions:
 
 ### Session wise summary
 
-- In first session, the movement (forward and backward) and rotation(left and right) blocks were discussed. Simple polygons (square and triangle) was designed to ellict the same.
+During the three weeks, there was a gradual increase in complexity and abstraction of the projects covering all the foundational concepts in the introductory programming.
+
+- In the first session, the movement (forward and backward) and rotation(left and right) of the blocks were discussed. Simple polygons (square and triangle) were designed to elicit the same.
   ![S1](https://upload.wikimedia.org/wikipedia/commons/4/46/1-2_Making_Triangle.png)
-- In the second session, the participants were exposed to the functionality of the repeat block and forever block. A simple color wheel was made using random and colour block.
+- In the second session, the participants were exposed to the functionality of the repeat block and forever block. A color wheel was made using random and colour blocks.
   ![S2](https://upload.wikimedia.org/wikipedia/commons/1/1b/2-3_Making_a_Color_Spoke.png)
-- In the third session, the concept of stepping variable was introduced while attempting to make spiral square artWork by [Michel](https://commons.wikimedia.org/wiki/File:Fig-2-Spiral-drawn-with-TurtleArt.gif).
+- In the third session, the concept of stepping variables was introduced while attempting to make spiral square artWork by [Michel](https://commons.wikimedia.org/wiki/File:Fig-2-Spiral-drawn-with-TurtleArt.gif).
   ![S3](https://upload.wikimedia.org/wikipedia/commons/a/ad/3_Remix_Spiral_Square.png)
-- In the fourth session, we discussed some best practices to document one's work and also how to cite resources from Wikipedia. This was in context to the third session, where we used an artwork by Michel and made remixes around it. An irregular circular disc was designed eliciting the concept of nested repeat and using using random block with foward.
+- In the fourth session, we discussed some best practices to document one's work and also how to cite resources from Wikipedia. This was in context to the third session, where we used an artwork by Michel and made remixes around it. An irregular circular disc was designed eliciting the concept of nested repeat and using using a random block with forward.
   ![S4](https://upload.wikimedia.org/wikipedia/commons/7/7c/4-2_Making_a_random_disk.png)
-- In the fifth session, we explored the concept of conditional statements and defining a reusable-modular procedures. The if and action block were used to make nested polygon design.
+- In the fifth session, we explored the concept of conditional statements and defining reusable-modular procedures. The if and action block were used to make nested polygon design.
   ![S5](https://upload.wikimedia.org/wikipedia/commons/1/1f/5_polygon_using_action_and_if_blocks.png)
-- In the sixth session, a VIBGYOR wheel was used as a design challenge to engage the participants. This required the accurate placement of turtle on the specific location on the screen, hence one has to carefully synchronise the position of the turtle as well as track the colour variable to generate the requisite pattern. The coordinate system and setxy block was used to implement the same.
+- In the sixth session, a VIBGYOR wheel was used as a design challenge to engage the participants. This required the accurate placement of turtle on the specific location on the screen, hence one has to carefully synchronise the position of the turtle as well as track the colour variable to generate the requisite pattern. The coordinate system and set-xy block was used to implement the same.
   ![S6](https://upload.wikimedia.org/wikipedia/commons/c/c6/6_VIBGYOR_Wheel.png)
 
-During the three weeks, there was a gradual increase in complexity and abstraction of the projects covering all the foundational concepts in the introductory programming.
+
 
 ### Settings
 
 - The participants were located in geographically different locations.
-- Live session was conducted using webinar platform.
-- These session duration was 60 min each, twice a week.
-- The online interaction had provision for chat interface to ask doubts, real-time poll, and screen sharing option.
+- Live session was conducted using the webinar platform.
+- This session duration was 60 min each, twice a week.
+- The online interaction had provision for a chat interface to ask doubts, real-time poll, and screen sharing options.
 - A group was also created in an instant messaging platform with the mentors, participants and parents. The purpose of the group was to encourage community-driven engagement by sharing challenges asynchronously.
 
 ### Data Sources
@@ -117,13 +117,13 @@ The data was collected primarily from three sources
 ### Demographies
 
 - 9 participants registered to be part of the online intervention
-- Four volunteered to be part of pilot study and shared reflection sheet and project files separately.
+- Four volunteered to be part of pilot study and shared reflection sheets and project files separately.
 - The participant's distribution across grade was as follow:
   - Grade 4-5: 1
   - Grade 6-8: 1
   - Grade 9-12: 1
   - Adult: 1
-- Six participants shared project files in the group settings as part of their contribution to OER. These are used to make a collective portfolio. The participants' identity remained anonymous.
+- Six participants shared project files in the group settings as part of their contribution to OER. These are used to make a collective portfolio. The participants’ identity are  anonymized.
 
 ## Observations
 
@@ -131,9 +131,9 @@ In this section, we share the analysis of the project files and discuss some epi
 
 ### Project Files Analysis
 
-The frequency of usage of programming blocks and the application of concepts like stepping variable, control flow statements, abstraction, modularization can be used to determine the fluency and familiarity in the programming environment. (Portelance,2005; Resnik,Scratch).
+The frequency of usage of programming blocks and the application of concepts like stepping variables, control flow statements, abstraction, modularization can be used to determine the fluency and familiarity in the programming environment. (Portelance,2005; Resnik,Scratch).
 
-In total 25 new projects was shared by the four participants. Projects were mapped according to the programming concepts discussed in section 2. Sub-categories were created for the variable (data) and iteration.
+In total 25 new projects were shared by the four participants. Projects were mapped according to the programming concepts discussed in section 2. Sub-categories were created for the variable (data) and iteration.
 
 The summary is as follow:
 
@@ -150,7 +150,7 @@ The summary is as follow:
 - Action (Functions)
   - Action block was used in one project.
 
-It is interesting to note that 10 of these contained programming block like arc, shade, hue which were not discussed during the online sessions.
+It is interesting to note that 10 of these contained programming blocks like arc, shade, hue which were not discussed during the online sessions.
 
 ![](./img/concepts-2.1.png)
 
@@ -191,11 +191,11 @@ Building fluency, competency, the connection in microworld is dependent on many 
 
 ### The not so Random Story
 
-How many of us who remember when we were introduced random numbers? Was the experience profoundly engaging? This is how the random number is introduced in most of the introductory CS courses for the first time learners,
+How many of us remember when we were introduced random numbers? Was the experience profoundly engaging? This is how the random number is introduced in most of the introductory CS courses for the first time learners,
 
 One of the recurring patterns in the reflection sheet of the participants indicated the fondness for the random block. This is also reflected in the project files where 10 projects used the random block. The following are some of the comments shared by the participants:
 
-> **P1:** Random block is my favourite block. Because of the random block with using a colour block I made my art colourful. That's why this is my favourite block.
+> **P1:** Random block is my favourite block. Because of the random block using a colour block I made my art colourful. That’s why this is my favourite block.
 >
 > **P2:** I used the random block to make my art colourful.
 >
@@ -241,15 +241,15 @@ In the turtle graphics approach, we can see how simple art can be converted into
 
 One of the powerful features of computationally powered graphics is the versatility of the designs which are possible during the creation process. Here we see three examples, of how the microworld supports discoveries and increase chances for serendipitous moments during the exploration,
 
-In the first scenario, even if one decides to work towards making a specific design, the process of breaking down and working bottom-up to generate complex shape allows one to encounter awe and surprise during the process. This is resonated in the response shared by the participant.
+In the first scenario, even if one decides to work towards making a specific design, the process of breaking down and working bottom-up to generate complex shapes allows one to encounter awe and surprise during the process. This is resonated in the response shared by the participant.
 
 > CatHeart is my favourite artwork. Once I saw this drawing on the internet and thought to program the same on sugar labs. It failed many times...but at last it worked. While programming this, many new shapes were formed other than a cat on the heart."
 
-Secondly, even if one starts with an existing project, the opportunity to take code snippets and remixes them to create new designs is a common practice in turtle Blocks microworld. One of the participants shared,
+Secondly, even if one starts with an existing project, the opportunity to take code snippets and remixe them to create new designs is a common practice in turtle Blocks microworld. One of the participants shared,
 
 > I explored and created new designs, made a remix of some of the Artworks. In every session, I got to learn something different, something new.
 
-Thirdly, even by keeping the code structure same, making slight changes in the argument value can lead to interesting output which at many times can't be anticipated. This is due to the parameterized nature of the artWork embedded in an artistic context making it possible for limitless easily tweak-able designs to emerge.
+Thirdly, even by keeping the code structure the same, making slight changes in the argument value can lead to interesting output which at many times can't be anticipated. This is due to the parameterized nature of the artWork embedded in an artistic context making it possible for limitless easily tweak-able designs to emerge.
 
 > What I liked most about turtle art is that you can do any design you want. By changing one number in the code you can make a whole new design.
 
@@ -259,7 +259,7 @@ One of the respondents remarked,
 
 > "I liked the way the blocks are made. You simply clip the blocks to the program just like hanging clothes to a hanger. You can club your commands, add and remove and try different combinations."
 
-Resnick has also pointed the same in context of scratch microworld. The very affordance of "low-threshold" and "high ceiling" makes the journey in the turtle Graphics enjoyable.
+Resnick has also pointed to the same in the context of scratch microworld. The very affordance of "low-threshold" and "high ceiling" makes the journey in the turtle Graphics enjoyable.
 
 To summarize, the very power of the same code structure to generate different design adds to the awe and surprise. The visual affordance of the platform to support the try-view-modify cycle in experimental makes the bug finding a discovery process in it.
 
@@ -280,16 +280,16 @@ Example 2: Understanding iteration in context of writing concise code
 ### Project Challenges as prompts
 
 Projects challenges were yet another strategy incorporated in the program intervention to increase the likelihood for participants to better navigate and choose the projects they might find interesting.
-There was two facilitation decision which went alongside the implementation of project challenges. The challenge was kept "voluntary" and "cohort-driven". Firstly, there was no compulsion for anyone to participate in any challenge. Secondly, any members of the group can share project challenges for their peers to work on. There was a mutual understanding among the community that even if one finds the answer, one would defer sharing the project code on the group since that that will not let others to experience the opportunity to attempt here. Below are three examples of how the challenges were an integral part of the overall intervention design.
+There were two facilitation decisions which went alongside the implementation of project challenges. The challenge was kept "voluntary" and "cohort-driven". Firstly, there was no compulsion for anyone to participate in any challenge. Secondly, any members of the group can share project challenges for their peers to work on. There was a mutual understanding among the community that even if one finds the answer, one would defer sharing the project code on the group since that will not let others to experience the opportunity to attempt here. Below are three examples of how the challenges were an integral part of the overall intervention design.
 
-The first example is of the challenges which are shared by the participants. The participants were encouraged to create their design and share those during the 3-weeks intervention. This is also in alignment with the sharing the artefact with the community in the constructionist approach. Here are some challenges shared by the members,
+The first example is of the challenges which are shared by the participants. The participants were encouraged to create their design and share those during the 3-weeks intervention. This is also in alignment with sharing the artefact with the community in the constructionist approach. Here are some challenges shared by the members,
 
 ![](./img/ch.png)
 
 The second example is standing on the shoulder of the community. turtle Graphics indeed has a rich repository of projects online. To ease the navigation of the participants, we curated turtle Art challenges at one place. This acts as the idea zone and showcase for the diversity of projects which are possible and already attempted by several people.
 Here is the link of [turtleArt Challenge Wiki.](https://metastudio.org/t/turtleart-challenges-wiki/4036/8)
 
-The third case is indeed a very interesting and one which we didn't anticipate. This is also an example of how contextual connections can emerge unexpectedly and trigger serendipitous exploration in the form of project challenges which becomes personally meaningful for some participants.
+The third case is indeed a very interesting one which we didn't anticipate. This is also an example of how contextual connections can emerge unexpectedly and trigger serendipitous exploration in the form of project challenges which becomes personally meaningful for some participants.
 
 Here is a canvas of various designs attempts done by the members (colour represents unique member) to make an artwork resembling "coronavirus"
 
@@ -309,19 +309,17 @@ To summarize, the challenge serves both as an inspiration prompt and also as an 
 
 ## Conclusion
 
-The preliminary finding indicates that some concepts were used less often than the other. The low frequency of the concepts to appear in project files might be due to the later induction of some of the concepts and their inherent complexity. Even though the ceiling for entry into the microworld is low, the ceiling for exploration of the exploration of all the computational concepts in complex projects is not low and requires time, effort and patience. This can often get overlooked due to the benefits the microworld offers and the general tenet of low-ceiling of exploration in microworld. In (cite), the authors proposes that it takes just 15 min to engage in Scratch microworld and start making interactive project. It will be more useful to also be aware about the distinction between the project creations and the computational thinking concepts which are honed during such exploration.
-
-The pilot indicates that there are conceptual gaps which need to be addressed to help learner becomes fluent and familiar in the microworld. It takes time and effort on both learner and students to develop the fluency.
-
+The preliminary finding indicates that some concepts were used less often than the other. The low frequency of the concepts to appear in project files might be due to the later induction of some of the concepts and their inherent complexity. Even though the ceiling for entry into the microworld is low, the ceiling for exploration of the computational concepts in complex projects is not low and requires time, effort and patience. This can often get overlooked due to the benefits the microworld offers and the general tenet of low-ceiling exploration in microworld. In (cite), the authors propose that it takes just 15 min to engage in Scratch microworld and start making interactive projects. It will be more useful to also be aware about the distinction between the project creations and the computational thinking concepts which are honed during such exploration.
+The pilot indicates that there are conceptual gaps which need to be addressed to help learners become fluent and familiar in the microworld. It takes time and effort on both the learner and students to develop the fluency.
 The followings suggestions may be useful for the future iterations,
 
-- More focus and time should be given on projects which involved the application of concepts in an integrated manner to better help learner internalize the same.
-- Care must be given towards gradual scaffolding of the concepts and techniques to make the transition smooth
+- More focus and time should be given on projects which involve the application of concepts in an integrated manner to better help learners internalize the same.
+- Care must be given towards gradual scaffolding of the concepts and techniques to make the transition smooth.
 - The projects shared during the session should convey the potentiality of the microworld to participants and support personally relevant exploration.
 
 The intertwined nature of commitment towards supporting personally relevant exploration coupled with the specific affordance of the platform, mentorship and facilitation, carefully designed sessions and challenge prompts makes the overall experience holistic and meaningful for the learner. This has potential to organically develop a positive identity as a programmer and also a deeper connection with the microworld.
 
-The article highlights the importance of gradual scaffolding of the computational concepts and proposes that these should be elicited with within the context of creating personal meaning projects via turtle Blocks as a case study. This approach also sets the stage for the teachers of any discipline to focus on assessment less, open-ended creative exploration leveraging the true potential of the constructionist learning environment.
+The article highlights the importance of gradual scaffolding of the computational concepts and proposes that these should be elicited within the context of creating personal meaning projects via turtle Blocks as a case study. This approach also sets the stage for the teachers of any discipline to focus on assessment less, open-ended creative exploration leveraging the true potential of the constructionist learning environment.
 
 **Acknowledgement**
 
@@ -332,7 +330,7 @@ The authors would also like to thank all mentors who encouraged the children and
 **Wiki Challenges authors:** Amit Dhakulkar and Ravi Sinha  
 **Online sessions facilitator:** Ravi Sinha
 
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the institute.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the institute.
 
 **Statements on data, ethics and conflicts of interest**
 
