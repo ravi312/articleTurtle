@@ -15,7 +15,7 @@ latex_engine: xelatex
   - [Session wise summary](#session-wise-summary)
   - [Settings](#settings)
   - [Data Sources](#data-sources)
-  - [Demographies](#demographies)
+  - [Sample](#sample)
 - [Observations](#observations)
   - [Project Files Analysis](#project-files-analysis)
 - [Discussion](#discussion)
@@ -39,7 +39,10 @@ In this article, we explore the design and implementation of an introductory mod
 
 ![Fig 1](./img/2.jpeg)
 
-It's probably hard to see the connection between programming and Fig 1 at the first sight. Here is the artwork shared by one of the participant using turtle Blocks inspired by Fig 1, (this should go a bit later)
+It's probably hard to see the connection between programming and Fig 1 at the first sight. Here is the artwork shared by one of the participant using turtle Blocks inspired by Fig 1,
+
+<!--- (this should go a bit later) -->
+[//]: # (this should go a bit later)
 
 ![Fig 2](./img/1.png)
 
